@@ -1,4 +1,4 @@
-"","name","cname","gender","status-string,"status-int","status-bool"
+"id","name","cname","gender","status-string","status-int","status-bool"
 "3","ant","螞蟻","female","0",0,false
 "4","bear","熊","male","1",1,true
 "5","chicken","雞",null,null,null,null
